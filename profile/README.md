@@ -12,6 +12,5 @@ Visit [Arcana Network](https://www.arcana.network/) for details.
 
 <div>
   <a title="Twitter" href="https://twitter.com/ArcanaNetwork"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArcanaNetwork"/></a>
-  <a title="Telegram" href="https://telegram.me/ArcanaNetwork"><img alt="Telegram URL" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a title="Telegram" href="https://telegram.me/ArcanaNetwork"><img alt="Telegram URL" src="https://img.shields.io/badge/Telegram-2CA5E0?style=statice&logo=telegram&logoColor=white"/></a>
 </div>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
