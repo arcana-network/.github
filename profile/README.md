@@ -4,7 +4,7 @@
 
 [Arcana Network](https://www.arcana.network/) SDKs allow fast user onboarding in Web3 apps and instant Arcana wallet access to authenticated users without having to install any wallet extension. Developers can further incentivize app users and scale app adoption with gasless transactions.
 
-[Learn more...}(https://docs.arcana.network/quick-start/)
+[Learn more...]}(https://docs.arcana.network/quick-start/)
 
 <div>
   <a title="Twitter" href="https://twitter.com/ArcanaNetwork"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArcanaNetwork"/></a>
