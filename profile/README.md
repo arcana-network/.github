@@ -2,16 +2,13 @@
 
 # Arcana Network
 
-Web3 application developers rejoice!
-Arcana Network offers Arcana Auth - Web3 adoption made easy!
-It consists of two components: Arcana Auth SDK and Arcana Developer Dashboard. See [Quick Start Guide](https://docs.beta.arcana.network/walletsdk/wallet_qs.html).
+[Arcana Network](https://www.arcana.network/) SDKs allow fast user onboarding in Web3 apps and instant Arcana wallet access to authenticated users without having to install any wallet extension. Developers can further incentivize app users and scale app adoption with gasless transactions.
 
-Arcana Auth simplifies wallets and keys. Remove the friction of wallet installation, key backup, & crypto on-ramp. Users get an instant web wallet widget right in your app.
-
-Visit [Arcana Network](https://www.arcana.network/) for details.
+[Learn more...}(https://docs.arcana.network/quick-start/)
 
 <div>
-  <a title="Twitter" href="https://twitter.com/ArcanaNetwork"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArcanaNetwork"/></a>
-  <a title="Telegram" href="https://telegram.me/ArcanaNetwork"><img alt="Telegram URL" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a title="Discord" href="https://discord.gg/6g7fQvEpd"><img alt="Discord Invite URL" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/></a>
+  <a title="Twitter" href="https://twitter.com/ArcanaNetwork"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArcanaNetwork"/></a>
+  <a title="Telegram" href="https://telegram.me/ArcanaNetwork"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a title="Discord" href="https://discord.gg/6g7fQvEpd"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/></a>
+  <a title="YouTube" href="https://www.youtube.com/@ArcanaNetwork"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%235865F2.svg?style=flat&logo=youtube&logoColor=white"/></a>
 </div>
