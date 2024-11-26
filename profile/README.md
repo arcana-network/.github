@@ -1,4 +1,4 @@
-![Arcana Network Auth Banner](https://raw.githubusercontent.com/arcana-network/branding/main/an_banner_feb_24.png)
+![Arcana Network Auth Banner](https://raw.githubusercontent.com/arcana-network/branding/main/an_banner_nov_24.png)
 
 # Arcana Network
 
