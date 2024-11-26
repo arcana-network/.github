@@ -4,7 +4,9 @@
 
 **Making Web3 Effortless!**
 
-[Arcana Network](https://www.arcana.network/) SDKs allow fast user onboarding in Web3 apps and instant Arcana wallet access to authenticated users without having to install any wallet extension. Developers can further incentivize app users and scale app adoption with gasless transactions.
+[Arcana Network](https://www.arcana.network/) Chain Abstraction enables unified balance and lets Web3 app users spend on any chain. Use the standalone Arcana Wallet from the Web Chrome Store. Chain Abstraction SDK is coming soon for Web3 app builders.
+
+Arcana also offers other SDKs for Wallet and Account Abstraction features. Use the Auth SDK for fast user onboarding in Web3 apps and instant in-app Arcana wallet access to authenticated users without installing any wallet extension. Use Gasless SDK to enable account abstraction and incentivize app users by sponsoring gasless transactions.
 
 [Learn more...](https://docs.arcana.network/quick-start/)
 
